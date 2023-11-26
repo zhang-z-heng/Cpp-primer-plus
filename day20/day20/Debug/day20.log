@@ -1,0 +1,12 @@
+﻿  day20.cpp
+C:\Users\Utente\source\repos\day20\day20\day20.cpp(424,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Utente\source\repos\day20\day20\day20.cpp(424,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  day20.vcxproj -> C:\Users\Utente\source\repos\day20\Debug\day20.exe
